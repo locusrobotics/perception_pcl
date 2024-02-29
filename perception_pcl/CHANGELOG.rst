@@ -2,8 +2,8 @@
 Changelog for package perception_pcl
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.8.0 (2024-02-29)
+------------------
 * Fix changelogs
 * Contributors: Gary Servin
 
