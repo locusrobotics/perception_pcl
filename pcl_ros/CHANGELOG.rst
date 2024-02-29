@@ -2,6 +2,9 @@
 Changelog for package pcl_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.7.4 (2022-02-08)
+------------------
+
 1.7.0 (2019-07-03)
 ------------------
 * Added option for fixed filename (via local parameter) (`#102 <https://github.com/ros-perception/perception_pcl/issues/102>`_)
