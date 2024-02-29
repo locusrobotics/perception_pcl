@@ -2,6 +2,23 @@
 Changelog for package pcl_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix changelogs
+* Adding separate leaf sizes for each axis in the VoxelGrid filter (#393)
+* Add logic for missing pcl/point_traits.h in newer PCL versions (#381)
+  point_traits.h is no longer available, starting with PCL 1.13.0
+  Since PCL 1.11.0, type_traits.h should be used instead
+* update deprecated traits include
+  as reported by PCL 1.12.
+* Drop old C++ standard
+* Switch to new boost/bind/bind.hpp
+* Add boost include, missing in upcoming PCL versions (#373)
+  Was removed in pcl/conversions.h here: https://github.com/PointCloudLibrary/pcl/commit/292593abd3b69af315c7fe3379363bdce7800d5a
+* Switch to hpp headers of pluginlib (#370)
+  Co-authored-by: Jochen Sprickerhof <jspricke@debian.org>
+* Contributors: Gary Servin, Jochen Sprickerhof, Markus Vieth, Tom Moore, v4hn
+
 1.7.4 (2022-02-08)
 ------------------
 

@@ -2,6 +2,11 @@
 Changelog for package pcl_conversions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix changelogs
+* Contributors: Gary Servin
+
 1.7.4 (2022-02-08)
 ------------------
 
